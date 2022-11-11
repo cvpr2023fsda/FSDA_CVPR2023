@@ -7,3 +7,4 @@ Modern Convolutional Neural Networks (CNNs) are used in various artificial intel
 ## Experiment Results
 
 ![Screenshot from 2022-11-11 13-35-35](https://user-images.githubusercontent.com/117921416/201264189-6972b025-e983-4186-847c-1f3cb0e7019e.png)
+![Screenshot from 2022-11-11 13-35-45](https://user-images.githubusercontent.com/117921416/201264257-057d1e61-ff5d-44c8-b3d1-b263b5cde0dc.png)
