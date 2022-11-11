@@ -28,4 +28,6 @@ Modern Convolutional Neural Networks (CNNs) are used in various artificial intel
 4. Evaluation
   - Download [trained model](https://drive.google.com/file/d/155-DY-H-wE4FyMRFL9i1-ireHFAJGsiS/view?usp=share_link) and put it in folder `model_save`
   - Evaluation code is in `test.py`
- ``python test.py --data_path dataset --save_path model_save --data_type [DATA_TYPE] --epochs 100 --lr 0.1 --augment [AUGMENT]``
+ ```
+ python test.py --data_path dataset --save_path model_save --data_type [DATA_TYPE] --epochs 100 --lr 0.1 --augment [AUGMENT]
+ ```
