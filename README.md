@@ -21,13 +21,13 @@ Modern Convolutional Neural Networks (CNNs) are used in various artificial intel
   ```
   
 3. Dataset
-  - We use three public image classification dataset(CIFAR-10/100 and STL-10)
+  - We use three public image classification dataset(CIFAR-10/100 and STL-10).
   - For testing corruption robustness, download the [CIFAR-10-C](https://zenodo.org/record/2535967), [CIFAR-100-C](https://zenodo.org/record/3555552#.Y23TZ3VByV4) datasets. 
-  - Please put datasets in folder `dataset`
+  - Please put datasets in folder `dataset`.
 
 4. Evaluation
-  - Download [trained model](https://drive.google.com/file/d/155-DY-H-wE4FyMRFL9i1-ireHFAJGsiS/view?usp=share_link) and put it in folder `model_save`
-  - Evaluation code is in `test.py`
+  - Download [trained model](https://drive.google.com/file/d/155-DY-H-wE4FyMRFL9i1-ireHFAJGsiS/view?usp=share_link) and put it in folder `model_save`.
+  - Evaluation code is in `test.py`.
  ```
  python test.py --data_path dataset --save_path model_save --data_type [DATA_TYPE] --epochs 100 --lr 0.1 --augment [AUGMENT]
  ```
